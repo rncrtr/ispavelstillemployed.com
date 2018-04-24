@@ -1,0 +1,8 @@
+# Is Pavel Still Employed?
+The question on everyone's mind.
+
+# Answered in spectacular fashion with this simple website
+
+## Ewwww, PHP.
+
+Oldskool OG Notice: Yes, I know it is written in PHP, ewwww. I do apparently work for the lazy stupid Devil, not the productive dastardly one, because I used a "technology" from long ago that isn't even recognized as an _actual_ technology or programming framework. Why, Ryan, why would you do such a thing? Why God why? I wasn't liked as a child, I guess? Doesn't Pavel deserve the best? Alright, well, you may have a point there, but I use the tool that does the job with a minimum of time wasted on tooling and configuration. The point was to bring the answer to the question "Is Pavel Still Employed?" to the web as quickly as possible over the initial weekend before Pavel's suit was worn in vain at his big meeting. Do you actually think schrodinger interviewed cats and asked them about their liveness when he experimented? No, he threw a cat in a box and observed. Science sometimes demands action. While PHP is hardly "science" this was an appropriate analogy. PHP in this case accomplished this with extreme speed. Pro Tip (TM): Use the best tool for the situation, not just your current stack preference. Sure, there is a better thing, but not if you're still fiddling with YAMLs while I have things up, working, and generating Pavel fame throughout the land. That is a use case PHP works for. Sorry. I am BAD DEVLOPER, I know. BAD BAD. #itWorksSoDealWithItSmileyFace #sorryNotSorry
